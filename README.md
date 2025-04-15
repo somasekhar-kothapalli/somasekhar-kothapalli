@@ -4,6 +4,7 @@
 ## 💫 About Me:
 Experienced Frontend Engineer with 5 years in Angular, RXJS, and NGRX, specializing in developing high-performance web applications. Proficient in JavaScript, TypeScript, frontend, and backend development, with expertise in debugging, testing, and performance optimization. Skilled in Agile frameworks, Git-based version control, and modern software engineering. Strong background in Hybrid Mobile and Backend development using Ionic, Cordova/Capacitor for Android & iOS, Python Django REST Framework, and PostgreSQL. Adept at analytical problem-solving and seamless technology integration.
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kothapalli-somasekhar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somunani2413@gmail.com) 
