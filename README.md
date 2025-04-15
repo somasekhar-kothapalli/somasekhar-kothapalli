@@ -14,7 +14,7 @@ Experienced Frontend Engineer with 5 years in Angular, RXJS, and NGRX, specializ
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2.svg?style=for-the-badge&logo=NgRx&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055.svg?style=for-the-badge&logo=Nx&logoColor=white)
