@@ -1,5 +1,7 @@
-# Somasekhar Kothapalli
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Frontend Developer | Remote-First | Angular Enthusiast ✨</h3>
+
+## 💫 About Me:
 Experienced Frontend Engineer with 5 years in Angular, RXJS, and NGRX, specializing in developing high-performance web applications. Proficient in JavaScript, TypeScript, frontend, and backend development, with expertise in debugging, testing, and performance optimization. Skilled in Agile frameworks, Git-based version control, and modern software engineering. Strong background in Hybrid Mobile and Backend development using Ionic, Cordova/Capacitor for Android & iOS, Python Django REST Framework, and PostgreSQL. Adept at analytical problem-solving and seamless technology integration.
 
 
