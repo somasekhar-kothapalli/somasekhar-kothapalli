@@ -49,7 +49,7 @@ Experienced Frontend Engineer with 5 years in Angular, RXJS, and NGRX, specializ
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somasekhar-kothapalli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
