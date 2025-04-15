@@ -6,8 +6,10 @@ Experienced Frontend Engineer with 5 years in Angular, RXJS, and NGRX, specializ
 
 ---
 
-## 🌐 Socials
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kothapalli-somasekhar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somunani2413@gmail.com) 
+
+---
 
 ### 🛠️ Tech Stack
 
