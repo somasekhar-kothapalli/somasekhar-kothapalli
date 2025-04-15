@@ -64,3 +64,13 @@ Experienced Frontend Engineer with 5 years in Angular, RXJS, and NGRX, specializ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=somasekhar-kothapalli&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### 🌐 Let's Connect
+- 🔗 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/somasekhar-kothapalli/)
+- 🧑‍💻 [GitHub](https://github.com/somasekhar-kothapalli)
+- 📫 Email: `somunani2413@gmail.com`
+
+---
