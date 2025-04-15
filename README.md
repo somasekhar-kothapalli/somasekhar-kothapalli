@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Somasekhar Kothapalli </h1>
 <h3 align="center">Frontend Developer | Remote-First | Angular Enthusiast ✨</h3>
 
 ## 💫 About Me:
